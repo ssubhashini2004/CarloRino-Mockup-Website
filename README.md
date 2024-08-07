@@ -1,6 +1,6 @@
 # CR Boutique E-Commerce Platform
 
-This repository contains the code and resources for the CR Boutique E-Commerce Platform, a comprehensive online store offering a wide range of products, including timepieces, sunglasses, scarves, perfumes, wallets, shoes, bags, and accessories. The platform is designed to provide an intuitive and seamless shopping experience for users.
+This repository contains the code and resources for the CarloRino Boutique E-Commerce Platform, a comprehensive online store offering a wide range of products, including timepieces, sunglasses, scarves, perfumes, wallets, shoes, bags, and accessories. The platform is designed to provide an intuitive and seamless shopping experience for users. We desgined this using Figma as part of a competition held by CarloRino to revamp and obtain new designs for their website.
 
 ## Table of Contents
 
