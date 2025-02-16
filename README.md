@@ -26,4 +26,4 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CR-Boutique.git
+   git clone https://github.com/ssubhashini2004/CR-Boutique.git
