@@ -6,9 +6,7 @@ This repository contains the code and resources for the CarloRino Boutique E-Com
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
